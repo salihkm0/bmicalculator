@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bmi-calculator/static/css/main.ddde1a08.css",
-    "main.js": "/bmi-calculator/static/js/main.658e27c3.js",
-    "static/js/787.49d2a325.chunk.js": "/bmi-calculator/static/js/787.49d2a325.chunk.js",
-    "index.html": "/bmi-calculator/index.html",
-    "main.ddde1a08.css.map": "/bmi-calculator/static/css/main.ddde1a08.css.map",
-    "main.658e27c3.js.map": "/bmi-calculator/static/js/main.658e27c3.js.map",
-    "787.49d2a325.chunk.js.map": "/bmi-calculator/static/js/787.49d2a325.chunk.js.map"
+    "main.css": "/bmicalculator/static/css/main.ddde1a08.css",
+    "main.js": "/bmicalculator/static/js/main.2dc2b1cc.js",
+    "static/js/787.49d2a325.chunk.js": "/bmicalculator/static/js/787.49d2a325.chunk.js",
+    "index.html": "/bmicalculator/index.html",
+    "main.ddde1a08.css.map": "/bmicalculator/static/css/main.ddde1a08.css.map",
+    "main.2dc2b1cc.js.map": "/bmicalculator/static/js/main.2dc2b1cc.js.map",
+    "787.49d2a325.chunk.js.map": "/bmicalculator/static/js/787.49d2a325.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ddde1a08.css",
-    "static/js/main.658e27c3.js"
+    "static/js/main.2dc2b1cc.js"
   ]
 }
